@@ -1,0 +1,16 @@
+﻿{
+  "name": "My Car",
+  "myProperties": {
+    "color": "blue",
+    "wheelCount": 4,
+    "interior": {
+      "appleCarPlay": true,
+      "transmision": "Automatic",
+      "otherSpec": {
+        "color": "Black",
+        "bluetooth": true,
+        "capacity": 5
+      }
+    }
+  }
+}

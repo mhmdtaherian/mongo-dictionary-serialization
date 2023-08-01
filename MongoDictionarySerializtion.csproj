@@ -5,9 +5,9 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="MongoDB.Driver" Version="2.19.0" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+  <ItemGroup>  
+    <PackageReference Include="MongoDB.Driver" Version="2.19.0" />    
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
   </ItemGroup>
 
 </Project>
